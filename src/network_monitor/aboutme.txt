@@ -1,0 +1,1 @@
+# network_monitor is a space where we calculate the network stats of the BACray application

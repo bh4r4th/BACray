@@ -1,0 +1,2 @@
+# Handlers are the core functionalites that drive the BACray application. 
+# Like: Process Pipeline or Queues

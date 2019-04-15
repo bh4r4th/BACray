@@ -1,0 +1,1 @@
+What constraints does this application supports

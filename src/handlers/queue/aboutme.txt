@@ -1,0 +1,1 @@
+# Queue is an internal queue that keeps track of events and make sure they run according to the pipeline.

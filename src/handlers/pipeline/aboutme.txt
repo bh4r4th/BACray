@@ -1,0 +1,1 @@
+# pipeline is the process an event go through for i/o while the application running.
